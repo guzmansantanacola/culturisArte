@@ -20,11 +20,11 @@ document.addEventListener("DOMContentLoaded", function() {
 
 function redireccionarAlLogin() {
   const sesionIniciada = localStorage.getItem("sesionIniciada");
-  if (!sesionIniciada && window.location.pathname !== "login.html") {
+  if (!sesionIniciada && window.location.pathname !== "/login.html") {
       window.location.href = "login.html";
   }
 }
 
-if (window.location.pathname !== "login.html") {
+if (window.location.pathname !== "/login.html") {
   redireccionarAlLogin();
 }
