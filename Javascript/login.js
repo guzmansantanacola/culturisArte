@@ -21,11 +21,11 @@ document.addEventListener("DOMContentLoaded", function() {
 //funcion para que si no estas logueado te devuelva a la pagina de logín, y use los if para que no se recargue inifitamente
 function redireccionarAlLogin() {
   const sesionIniciada = localStorage.getItem("sesionIniciada");
-  if (!sesionIniciada && window.location.pathname !== "/login.html") {
+  if (!sesionIniciada && window.location.pathname !== "login.html") {
       window.location.href = "login.html";
   }
 }
 
-if (window.location.pathname !== "/login.html") {
+if (window.location.pathname !== "login.html") {
   redireccionarAlLogin();
 }
