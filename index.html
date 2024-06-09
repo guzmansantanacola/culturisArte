@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es" style="scroll-behavior: smooth;">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CulturisArte</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/style.css" type="text/css">
+    <script src="./Javascript/login.js" defer></script>
+    <script src="./Javascript/Scripts.js" defer></script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg fixed-top">
+        <a class="navbar-brand" href="#">CULTURISARTE</a>
+        <div class="user"> <a class="nav-link" href="#subir">SUBE TU ARTE</a>
+            <p id="nombreusuario" ></p></div>
+       
+    </nav>
+   
+    <div class="jumbotron w-100 p-3 text-center">
+        <img src="./Assets/banner.png" alt="">
+    </div>
+    <div class="container">
+        <div id="arte-guardado" class="art-section" style="display: none;">
+            <h2 class="title1 text-light text-center">Tu Arte Subido</h2>
+            <div id="contenedor-arte" class="row"></div>
+        </div>
+        <div class="art-section">
+            <h2 class="title1">Artistas Reconocidos</h2>
+            <div id="artistas-reconocidos" class="row"></div>
+        </div>
+        <div class="container">
+            <div class="art-section" id="subir">
+                <h2 class="title2 text-light text-center">Sube tu arte</h2>
+                <form id="subirarte" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label for="art-title">Título de la obra</label>
+                        <input type="text" class="form-control" id="art-title" name="art-title" required>
+                    </div>
+                    <div class="form-group">
+                        <div class="custom-file">
+                            <input type="file" class="custom-file-input" id="art-file" name="art-file" accept="image/*" required>
+                            <label class="custom-file-label" for="art-file">Seleccionar archivo</label>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Subir</button>
+                </form>
+            </div>
+        </div>
+    
+    </div>
+</body>
+</html>

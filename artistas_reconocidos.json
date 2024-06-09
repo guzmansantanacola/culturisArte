@@ -1,0 +1,104 @@
+{
+    "artistas_reconocidos": [
+      {
+        "id":1,
+        "nombre": "Joaquín Torres García",
+        "foto":"https://artishockrevista.com/wp-content/uploads/2019/06/Torres-Con-Elementos.jpg",
+        "obras": [
+          {
+            "titulo": "Constructivo en blanco y negro",
+            "imagen_url": "https://i0.wp.com/revistaestilo.org/wp-content/uploads/2021/01/joaquin-torres-garcia-constructivo-en-blanco-y-negro-sobre-table-1933.jpg?fit=534%2C895&ssl=1"
+          },
+          {
+            "titulo": "Estructura en color",
+            "imagen_url": "https://www.artandantiquesmag.com/wp-content/uploads/2014/11/201411_torresgarcia_04.jpg"
+          }
+        ]
+      },
+      {
+        "id":2,
+        "nombre": "Juan Manuel Blanes",
+        "foto":"https://blanes.montevideo.gub.uy/sites/blanes.montevideo.gub.uy/files/styles/galeria_normal/public/articulos/imagenes/jmblanes_1.jpg?itok=wOeh4fvW",
+        "obras": [
+          {
+            "titulo": "El juramento de los Treinta y Tres Orientales",
+            "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Juan_Manuel_Blanes_-_El_Juramento_de_los_Treinta_y_Tres_Orientales.jpg"
+          },
+          {
+            "titulo": "Artigas en la Ciudadela",
+            "imagen_url": "http://uruguayeduca.anep.edu.uy/sites/default/files/2019-06/Juan_Manuel_Blanes_-_Artigas_en_la_Ciudadela.jpg"
+          }
+        ]
+      },
+      {
+        "id":3,
+        "nombre": "Pedro Figari",
+        "foto":"https://www.utu.edu.uy/sites/www.utu.edu.uy/files/styles/styles_noticias_home/public/noticia/imagenes/2021/09/Figari%202.jpg?h=7234e13b&itok=oxNXWuDt",
+        "obras": [
+          {
+            "titulo": "Pericón",
+            "imagen_url": "https://www.bellasartes.gob.ar/media/thumbs/uploads/coleccion/5xX4MpYZ5SDm.jpg"
+          },
+          {
+            "titulo": "Salida de Misa",
+            "imagen_url": "https://www.bellasartes.gob.ar/media/thumbs/uploads/coleccion/n3g3k8DBI88e.jpg"
+          }
+        ]
+      },
+      {
+        "id":4,
+        "nombre": "Carlos Paez Vilaró",
+        "foto": "https://resizer.glanacion.com/resizer/v2/carlos-paez-2WLSIKMK5ZFN7M6QA7F4Z6S2EQ.JPG?auth=9bd1c66c9d64c29de843c047e43c79968526a168026ada0cc44cb73c9aee9253&width=420&height=280&quality=70&smart=true",
+        "obras": [
+          {
+            "titulo": "Los Gatos De Casapueblo",
+            "imagen_url": "https://gatosyrespeto.org/wp-content/uploads/2017/06/cuatro-gatos.jpg?w=507&h=335",
+            "info":"https://gatosyrespeto.org/2017/06/22/los-gatos-de-casapueblo-carlos-paez-vilaro/"
+          },
+          {
+            "titulo": "Mural Paez Vilaró",
+            "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mural_Paez_Vilar%C3%B3.JPG/800px-Mural_Paez_Vilar%C3%B3.JPG",
+            "info":"https://es.wikipedia.org/wiki/Archivo:Mural_Paez_Vilaró.JPG"
+          }
+        ]
+      },
+      {
+        "id":5,
+        "nombre": "Petrona Viera",
+        "foto": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Petrona_viera.jpg",
+        "obras": [
+          {
+            "titulo": "Autoretrato",
+            "imagen_url": "https://mnav.gub.uy/img.php?o=2949",
+            "info": "https://mnav.gub.uy/cms.php?o=2949"
+
+          },
+          {
+            "titulo": "El cuentito",
+            "imagen_url": "https://mnav.gub.uy/img.php?o=3738",
+            "info":"https://mnav.gub.uy/cms.php?o=3738"
+          }
+        ]
+      },
+      {
+        "id":6,
+        "nombre": "Rafael Barradas",
+        "foto": "https://blanes.montevideo.gub.uy/sites/blanes.montevideo.gub.uy/files/articulos/imagenes/barradass.jpg",
+        "obras": [
+          {
+            "titulo": "Los emigrantes",
+            "imagen_url": "https://mnav.gub.uy/img.php?o=3123",
+            "info": "https://mnav.gub.uy/cms.php?o=3123"
+
+          },
+          {
+            "titulo": "El cuentito",
+            "imagen_url": "https://mnav.gub.uy/img.php?o=3189",
+            "info":"https://mnav.gub.uy/cms.php?o=3189"
+          }
+        ]
+      }
+
+    ]
+  }
+  
