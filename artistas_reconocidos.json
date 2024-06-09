@@ -7,11 +7,13 @@
         "obras": [
           {
             "titulo": "Constructivo en blanco y negro",
-            "imagen_url": "https://i0.wp.com/revistaestilo.org/wp-content/uploads/2021/01/joaquin-torres-garcia-constructivo-en-blanco-y-negro-sobre-table-1933.jpg?fit=534%2C895&ssl=1"
+            "imagen_url": "https://i0.wp.com/revistaestilo.org/wp-content/uploads/2021/01/joaquin-torres-garcia-constructivo-en-blanco-y-negro-sobre-table-1933.jpg?fit=534%2C895&ssl=1",
+            "info":"https://revistaestilo.org/joaquin-torres-garcia-constructivo-en-blanco-y-negro-sobre-table-1933/"
           },
           {
             "titulo": "Estructura en color",
-            "imagen_url": "https://www.artandantiquesmag.com/wp-content/uploads/2014/11/201411_torresgarcia_04.jpg"
+            "imagen_url": "https://www.artandantiquesmag.com/wp-content/uploads/2014/11/201411_torresgarcia_04.jpg",
+            "info":"https://www.artsy.net/artwork/joaquin-torres-garcia-estructura-en-color-color-structure"
           }
         ]
       },
@@ -22,11 +24,13 @@
         "obras": [
           {
             "titulo": "El juramento de los Treinta y Tres Orientales",
-            "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Juan_Manuel_Blanes_-_El_Juramento_de_los_Treinta_y_Tres_Orientales.jpg"
+            "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Juan_Manuel_Blanes_-_El_Juramento_de_los_Treinta_y_Tres_Orientales.jpg",
+            "info":"https://blanes.montevideo.gub.uy/acervo/el-juramento-de-los-treinta-y-tres-orientales"
           },
           {
             "titulo": "Artigas en la Ciudadela",
-            "imagen_url": "http://uruguayeduca.anep.edu.uy/sites/default/files/2019-06/Juan_Manuel_Blanes_-_Artigas_en_la_Ciudadela.jpg"
+            "imagen_url": "http://uruguayeduca.anep.edu.uy/sites/default/files/2019-06/Juan_Manuel_Blanes_-_Artigas_en_la_Ciudadela.jpg",
+            "info":"https://es.wikipedia.org/wiki/Artigas_en_la_puerta_de_la_Ciudadela"
           }
         ]
       },
@@ -37,11 +41,14 @@
         "obras": [
           {
             "titulo": "Pericón",
-            "imagen_url": "https://www.bellasartes.gob.ar/media/thumbs/uploads/coleccion/5xX4MpYZ5SDm.jpg"
+            "imagen_url": "https://www.bellasartes.gob.ar/media/thumbs/uploads/coleccion/5xX4MpYZ5SDm.jpg",
+            "info":"https://www.bellasartes.gob.ar/coleccion/obra/2582/"
+
           },
           {
             "titulo": "Salida de Misa",
-            "imagen_url": "https://www.bellasartes.gob.ar/media/thumbs/uploads/coleccion/n3g3k8DBI88e.jpg"
+            "imagen_url": "https://www.bellasartes.gob.ar/media/thumbs/uploads/coleccion/n3g3k8DBI88e.jpg",
+            "info":"https://www.bellasartes.gob.ar/coleccion/obra/6546/"
           }
         ]
       },
